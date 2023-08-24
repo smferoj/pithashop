@@ -1,3 +1,5 @@
+
+
 import Notification from '@/components/Notification'
 import './globals.css'
 import type { Metadata } from 'next'
