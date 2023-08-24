@@ -1,4 +1,4 @@
-"use client"
+
 
 import Notification from '@/components/Notification'
 import './globals.css'
